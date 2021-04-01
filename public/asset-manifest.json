@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/resturantIndian/static/css/main.f060a1ca.chunk.css",
+    "main.js": "/resturantIndian/static/js/main.7c02735f.chunk.js",
+    "main.js.map": "/resturantIndian/static/js/main.7c02735f.chunk.js.map",
+    "runtime-main.js": "/resturantIndian/static/js/runtime-main.f2ba0b19.js",
+    "runtime-main.js.map": "/resturantIndian/static/js/runtime-main.f2ba0b19.js.map",
+    "static/css/2.0b700c1f.chunk.css": "/resturantIndian/static/css/2.0b700c1f.chunk.css",
+    "static/js/2.913317e2.chunk.js": "/resturantIndian/static/js/2.913317e2.chunk.js",
+    "static/js/2.913317e2.chunk.js.map": "/resturantIndian/static/js/2.913317e2.chunk.js.map",
+    "static/js/3.7f8f716d.chunk.js": "/resturantIndian/static/js/3.7f8f716d.chunk.js",
+    "static/js/3.7f8f716d.chunk.js.map": "/resturantIndian/static/js/3.7f8f716d.chunk.js.map",
+    "index.html": "/resturantIndian/index.html",
+    "static/css/2.0b700c1f.chunk.css.map": "/resturantIndian/static/css/2.0b700c1f.chunk.css.map",
+    "static/css/main.f060a1ca.chunk.css.map": "/resturantIndian/static/css/main.f060a1ca.chunk.css.map",
+    "static/js/2.913317e2.chunk.js.LICENSE.txt": "/resturantIndian/static/js/2.913317e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2ba0b19.js",
+    "static/css/2.0b700c1f.chunk.css",
+    "static/js/2.913317e2.chunk.js",
+    "static/css/main.f060a1ca.chunk.css",
+    "static/js/main.7c02735f.chunk.js"
+  ]
+}
